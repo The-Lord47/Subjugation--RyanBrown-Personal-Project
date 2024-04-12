@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CashRegister
+  - gasPump1
+  - gasPump2
+  - gasPump3
+  - gasPump4
   layers:
   - Default
   - TransparentFX
